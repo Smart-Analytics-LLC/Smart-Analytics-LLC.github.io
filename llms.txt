@@ -38,7 +38,7 @@ Google Cloud Partner, dbt Partner, Keboola Partner
 
 ## More Information
 
-For detailed information about our services, technology stack, engagement models, and use cases, see [llms-full.txt](https://smart-analytics.io/llms-full.txt).
+For detailed information about our services, technology stack, engagement models, and use cases, see [llms-full.txt](https://smart-analytics-llc.github.io/llms-full.txt).
 
 ## Sitemap
 
