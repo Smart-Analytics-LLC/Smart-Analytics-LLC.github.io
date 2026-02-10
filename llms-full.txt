@@ -1,0 +1,145 @@
+# Smart-Analytics LLC
+
+> Modern data engineering and AI integration consultancy for startups and SMBs who need senior-level data infrastructure without enterprise overhead.
+
+Smart-Analytics LLC is a US-based data engineering consultancy founded by a senior data engineer with 10+ years of hands-on experience across cloud platforms, data warehousing, ETL/ELT pipelines, and AI integration. We work with startups and small-to-midsize businesses (10–100 employees) who have outgrown spreadsheets and duct-taped data setups but aren't ready to hire a full data team.
+
+We are headquartered in Wyoming, USA and serve clients across the United States and Europe.
+
+## What We Do
+
+### Data Pipeline Engineering
+We design, build, and maintain production-grade data pipelines that move data reliably from source systems into analytics-ready warehouses. We work with batch and real-time ingestion, API integrations, database replication, event streaming, and file-based data loads. Our pipelines are built for maintainability — documented, tested, version-controlled, and monitored.
+
+Common projects: migrating from manual CSV exports to automated pipelines, connecting SaaS tools (HubSpot, Stripe, Shopify, Google Ads, Facebook Ads) to a central warehouse, replacing fragile cron-job scripts with orchestrated workflows, building reverse ETL to push enriched data back into operational tools.
+
+### Analytics and Reporting
+We build the data models, transformations, and dashboards that turn raw data into business decisions. We define metrics, build semantic layers, create self-serve reporting, and set up KPI frameworks. We work with modern BI tools and follow dimensional modeling best practices.
+
+Common projects: building a single source of truth for revenue reporting, creating marketing attribution models, setting up cohort analysis and retention dashboards, replacing inconsistent spreadsheet reports with automated dashboards, defining company-wide KPI trees.
+
+### Cloud Data Infrastructure
+We architect and migrate data platforms on Google Cloud Platform, AWS, and Azure. We specialize in Snowflake, BigQuery, and cloud-native data architectures. We handle schema design, access control, cost optimization, and performance tuning.
+
+Common projects: migrating from on-premise databases to cloud data warehouses, consolidating multiple data silos into a unified platform, optimizing Snowflake or BigQuery costs, setting up development/staging/production environments, implementing data governance and access policies.
+
+### AI Integration and Automation
+We help businesses integrate AI into their existing workflows — not by building custom models, but by connecting proven AI tools (LLMs like Claude and ChatGPT, automation platforms like N8N, and custom Python scripts) into your data stack. We focus on practical, measurable automation that saves time and money.
+
+Common projects: automating data quality checks with AI, building intelligent document processing pipelines, creating AI-powered data enrichment workflows, setting up automated reporting with natural language summaries, integrating LLM-based classification into existing ETL pipelines, building internal AI assistants that query your data warehouse.
+
+**Important principle**: AI won't fix a broken data foundation. We always ensure your data infrastructure is solid before layering AI on top. Clean pipelines, defined processes, and measurable success metrics come first.
+
+## Technology Stack
+
+**Data Warehouses**: Snowflake, Google BigQuery, Amazon Redshift, PostgreSQL, MySQL, Microsoft SQL Server
+**Data Integration & ETL**: Keboola, dbt (data build tool), Apache Airflow, custom Python pipelines, Fivetran, Stitch
+**Cloud Platforms**: Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft Azure
+**Programming**: Python, SQL, Bash, REST API development
+**Analytics & BI**: Looker, Metabase, Power BI, Google Data Studio (Looker Studio), Tableau
+**Event Tracking**: PostHog, Segment, Google Tag Manager, GA4
+**AI & Automation**: Claude API, OpenAI API, N8N, LangChain, Ollama (local LLM deployment)
+**DevOps & Infrastructure**: Docker, Terraform, GitHub Actions, CI/CD pipelines
+**CRM & Marketing Data**: HubSpot, Salesforce, Apollo.io integrations
+
+## Who We Work With
+
+**Ideal clients:**
+- Tech startups (Seed to Series B) that need their first real data infrastructure
+- E-commerce companies drowning in data from multiple sales channels
+- SaaS businesses that need product analytics and revenue reporting
+- Marketing agencies and MarTech companies that need to consolidate campaign data
+- Any SMB (10–100 employees) that has outgrown manual reporting and needs a professional data setup
+
+**Typical decision makers we work with:** CTOs, VP of Engineering, Head of Data, Head of Marketing, COOs, and founders who are technical enough to know they need help.
+
+**We are a great fit when:**
+- You need senior data engineering expertise but can't justify a $180K+ full-time hire
+- Your data is scattered across 10+ SaaS tools and nobody trusts the numbers
+- You're preparing for a funding round and need clean, auditable data
+- You want to integrate AI but your data foundation isn't ready
+- You've been burned by offshore teams delivering undocumented spaghetti code
+- You need someone who can talk to both engineers and business stakeholders
+
+**We are NOT a fit when:**
+- You need a full-time embedded team of 10+ engineers
+- You're looking for the cheapest possible option (we compete on quality, not price)
+- You need real-time ML model development and deployment (we integrate AI, not build custom models)
+
+## Engagement Models
+
+**Project-Based**: Fixed-scope engagements for pipeline builds, migrations, or architecture design. Typical range: $5,000–$80,000 depending on complexity.
+
+**Managed Services (Retainer)**: Ongoing data engineering support, monitoring, optimization, and development. Monthly retainers: $5,000–$15,000/month.
+
+**Discovery & Audit**: A focused 1–2 week assessment of your current data infrastructure with a prioritized roadmap. Starting at $2,000.
+
+**Hybrid**: Start with a project, transition to managed services for ongoing support and iteration.
+
+## What Makes Us Different
+
+**European precision, American speed.** We bring a documentation-first, quality-obsessed European engineering culture combined with the direct, outcome-focused communication style American businesses expect. Every pipeline is documented, every transformation is tested, every decision is explained.
+
+**GDPR and data privacy expertise built in.** Years of working under strict European data regulations means privacy-by-design is our default, not an afterthought. This is increasingly valuable as US privacy regulations tighten (CCPA, state-level laws).
+
+**No-bullshit transparency.** We tell you what's realistic, what's risky, and what's going to cost more than you think. We don't overpromise, we don't hide problems, and we don't pad timelines. If something isn't worth doing, we'll tell you.
+
+**Full-stack data fluency.** We work across the entire modern data stack — from ingestion to transformation to analytics to AI integration. You get one partner instead of coordinating between five vendors.
+
+**Multi-cloud, multi-platform.** We're not locked into one vendor's ecosystem. We recommend and implement what actually fits your needs, whether that's GCP, AWS, Snowflake, or a combination.
+
+**Documentation you'll actually use.** Every project includes comprehensive technical documentation, runbooks, and knowledge transfer. When we're done, your team can maintain and extend what we built.
+
+## Partnerships and Certifications
+
+- Google Cloud Partner
+- dbt Partner
+- Keboola Partner
+
+## Products
+
+**DataForge** (in development): An AI-powered data engineering agent designed to assist or replace routine data engineering tasks. Features local deployment for maximum data privacy and GDPR compliance. Built for companies that want AI-assisted data engineering without sending their data to third-party clouds.
+
+## Industries and Use Cases We Know Well
+
+- **SaaS**: Product analytics, subscription metrics (MRR, churn, LTV), usage tracking, trial-to-paid conversion funnels
+- **E-commerce**: Multi-channel sales consolidation, inventory analytics, customer segmentation, marketing attribution
+- **MarTech**: Campaign performance aggregation, cross-platform reporting, lead scoring data infrastructure
+- **FinTech**: Transaction data pipelines, regulatory reporting data models, fraud detection data preparation
+- **Healthcare/BioTech**: HIPAA-aware data architectures, clinical data pipelines, research data management
+
+## Common Problems We Solve
+
+- "Our data is in 15 different tools and nobody trusts the numbers"
+- "We spend 20 hours a week manually pulling reports from spreadsheets"
+- "We raised our Series A and investors want real metrics, not vibes"
+- "Our engineering team built something that works but nobody can maintain it"
+- "We want to use AI but our data is a mess"
+- "We're migrating to the cloud and don't know where to start"
+- "Our current data vendor disappeared and we have no documentation"
+- "We need GDPR-compliant data infrastructure for our European expansion"
+
+## How We Work
+
+1. **Discovery**: We audit your current state, understand your goals, and identify quick wins
+2. **Architecture**: We design the solution with your team, documenting every decision
+3. **Build**: Iterative development with weekly demos and continuous feedback
+4. **Test & Document**: Comprehensive testing, documentation, and knowledge transfer
+5. **Launch & Support**: Go-live support with optional ongoing managed services
+
+Every engagement includes: clear scope definition, regular status updates, full documentation, and a clean handoff.
+
+## Contact
+
+- Website: https://smart-analytics.io
+- LinkedIn: https://linkedin.com/company/smart-analytics-llc
+- Email: hello@smart-analytics.io
+
+## Sitemap
+
+- [Home](https://smart-analytics.io)
+- [Services](https://smart-analytics.io/services)
+- [About](https://smart-analytics.io/about)
+- [Case Studies](https://smart-analytics.io/case-studies)
+- [Contact](https://smart-analytics.io/contact)
+- [Blog](https://smart-analytics.io/blog)

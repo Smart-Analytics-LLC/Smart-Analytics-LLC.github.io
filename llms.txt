@@ -1,0 +1,50 @@
+# Smart-Analytics LLC
+
+> Modern data engineering and AI integration consultancy helping startups and SMBs build reliable data infrastructure.
+
+Smart-Analytics LLC is a US-based (Wyoming) data engineering consultancy that delivers practical, no-nonsense data solutions for startups and small-to-midsize businesses. We specialize in building modern data pipelines, cloud migrations, analytics platforms, and AI integration services using best-in-class tools.
+
+## Core Services
+
+- **Data Pipeline Engineering**: ETL/ELT pipeline design and implementation using Keboola, dbt, Airflow, and Python
+- **Analytics & Reporting**: End-to-end BI solutions, data modeling, dashboards, and KPI frameworks
+- **Cloud Data Infrastructure**: Architecture and migration on GCP, AWS, and Azure (Snowflake, BigQuery)
+- **AI Integration & Automation**: Integrating AI tools (LLMs, automation workflows) into existing business processes — not building custom models, but making existing AI work for your stack
+
+## Technology Stack
+
+SQL (Snowflake, BigQuery, MySQL, MSSQL), Python, dbt, Keboola, Google Cloud Platform, Airflow, PostHog, event tracking, REST APIs, N8N automation
+
+## Who We Work With
+
+Tech startups, e-commerce companies, SaaS businesses, and marketing firms with 10–100 employees who need senior-level data engineering without the overhead of a full-time hire.
+
+## What Makes Us Different
+
+- European precision meets American execution speed
+- Deep GDPR and data privacy expertise — built into every solution
+- Transparent, outcome-focused engagement — no fluff, no surprise invoices
+- Multi-cloud and multi-platform fluency across modern data stack
+- Comprehensive documentation standard uncommon in US SMB consulting
+
+## Partnerships
+
+Google Cloud Partner, dbt Partner, Keboola Partner
+
+## Contact
+
+- Website: https://smart-analytics.io
+- LinkedIn: https://linkedin.com/company/smart-analytics-llc
+
+## More Information
+
+For detailed information about our services, technology stack, engagement models, and use cases, see [llms-full.txt](https://smart-analytics.io/llms-full.txt).
+
+## Sitemap
+
+- [Home](https://smart-analytics.io)
+- [Services](https://smart-analytics.io/services)
+- [About](https://smart-analytics.io/about)
+- [Case Studies](https://smart-analytics.io/case-studies)
+- [Contact](https://smart-analytics.io/contact)
+- [Blog](https://smart-analytics.io/blog)
