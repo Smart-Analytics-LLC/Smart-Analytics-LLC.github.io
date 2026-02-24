@@ -131,15 +131,15 @@ Every engagement includes: clear scope definition, regular status updates, full 
 
 ## Contact
 
-- Website: https://smart-analytics.io
-- LinkedIn: https://linkedin.com/company/smart-analytics-llc
-- Email: hello@smart-analytics.io
+- Website: https://smart-analytics.tech
+- LinkedIn: https://linkedin.com/company/smartanalyticsllc
+- Email: hello@smart-analytics.tech
 
 ## Sitemap
 
-- [Home](https://smart-analytics.io)
-- [Services](https://smart-analytics.io/services)
-- [About](https://smart-analytics.io/about)
-- [Case Studies](https://smart-analytics.io/case-studies)
-- [Contact](https://smart-analytics.io/contact)
-- [Blog](https://smart-analytics.io/blog)
+- [Home](https://smart-analytics.tech)
+- [Services](https://smart-analytics.tech/services)
+- [About](https://smart-analytics.tech/about)
+- [Case Studies](https://smart-analytics.tech/case-studies)
+- [Contact](https://smart-analytics.tech/contact)
+- [Blog](https://smart-analytics.tech/blog)
