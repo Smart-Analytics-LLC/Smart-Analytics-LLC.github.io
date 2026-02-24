@@ -33,8 +33,8 @@ Google Cloud Partner, dbt Partner, Keboola Partner
 
 ## Contact
 
-- Website: https://smart-analytics.io
-- LinkedIn: https://linkedin.com/company/smart-analytics-llc
+- Website: https://smart-analytics.tech
+- LinkedIn: https://linkedin.com/company/smartanalyticsllc
 
 ## More Information
 
@@ -42,9 +42,9 @@ For detailed information about our services, technology stack, engagement models
 
 ## Sitemap
 
-- [Home](https://smart-analytics.io)
-- [Services](https://smart-analytics.io/services)
-- [About](https://smart-analytics.io/about)
-- [Case Studies](https://smart-analytics.io/case-studies)
-- [Contact](https://smart-analytics.io/contact)
-- [Blog](https://smart-analytics.io/blog)
+- [Home](https://smart-analytics.tech)
+- [Services](https://smart-analytics.tech/services)
+- [About](https://smart-analytics.tech/about)
+- [Case Studies](https://smart-analytics.tech/case-studies)
+- [Contact](https://smart-analytics.tech/contact)
+- [Blog](https://smart-analytics.tech/blog)
